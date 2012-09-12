@@ -1,0 +1,12 @@
+host 23.23.127.159
+subscriberHost 23.23.127.159
+port 8080
+publishers 1
+subscribers 7500
+rooms 1
+roomsPerClient 1
+context /cometd-demo-2.4.3/cometd
+channel /chat/demo
+batchSize 10
+msgSize 50
+msgPause 500
