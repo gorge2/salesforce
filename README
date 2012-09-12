@@ -1,1 +1,10 @@
 This is Streaming API Project
+
+The BayeuxLoadClient.java file in /CometD-Jetty/benchmark/ has the subscribers code and its corresponding jar runs on the instance with 23.21.... IP address
+
+The BayeuxPublisher.java file in /CometD-Jetty/benchmark/ has the publishers code and its corresponding jar runs
+on the instance with 23.23.... IP address
+
+The jetty server instacne has the IP address 107.21.229.172
+
+
